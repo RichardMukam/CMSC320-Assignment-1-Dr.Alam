@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: One of the more notorious fields in recent years in which data science could be applied is machine learning. The foundational block or component of machine learning is data. And, data is strategically used to enable computers to learn a myriad of things with principles of artificial intelligence. As data science is the idea of using data to solve problems, it can be applied within machine learning where computers can learn to not only solve problems, but be able to solve increasingly difficult problems, on their own. In today's world, applications of machine learning have been used for weather forecasts, supporting cancer diagnosis, and recommendations for products.
