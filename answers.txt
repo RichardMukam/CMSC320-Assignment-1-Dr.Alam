@@ -9,3 +9,7 @@ Answer: One of the more notorious fields in recent years in which data science c
 Q3: What is the difference between merging and rebasing?
 
 Answer: Firstly, when you merge two branches together, you will always have a commit solely for the merging of the two files. This can create clutter in a git log with merge commits. Aside from that, merging is where two commits are stacked upon each other, all commits and changes combined into a single commit. And, when encountering a merge conflict, all of the conflicts will be presented within that one commit. Meanwhile, rebasing is the act of attaching commits with a new base, or stacking separate commits on top of the current commit. The commit log is much cleaner. With rebasing, you're moving a branch's changes onto the end of a branch. It creates a more linear workflow as there's no need to a commit solely for the storage of two merged commits. During my internship this past summer, rebasing was preferred — one of the reasons is that with its usage, commit history is easier for one to analyze.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my analytical skills during this course. I have littl experience working with data, even analyzing data. I have interest in the machine learning specialization and hope to achieve a level of competency that'll make me prepared for exploring the field given data science is a foundational block of machine learning. I also hope to improve my skills in Python, Pandas, SQL, and gain some familiarity with NLP and neural networks.
