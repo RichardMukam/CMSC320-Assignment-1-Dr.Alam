@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: One may consider using git in order to track the history of a file, or series of files within a directory or package, across multiple versions. It's a utility that enables collaboration and version tracking across different platforms, computers, and different users. Git is used in the technology industry, as well as other type of version control system such as subversion and mercurial because the sheer power and control it gives to developers.
